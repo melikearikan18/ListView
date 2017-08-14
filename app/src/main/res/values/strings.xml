@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listview</string>
+
+    <array name="liste">
+        <item>İstanbul</item>
+        <item>Elazığ</item>
+        <item>Ankara</item>
+        <item>İzmir</item>
+        <item>Malatya</item>
+        <item>Kahraman Maraş</item>
+        <item>Mardin</item>
+        <item>İzmit</item>
+        <item>Sakarya</item>
+        <item>Yalova</item>
+        <item>Isparta</item>
+        <item>Konya</item>
+        <item>Diyarbakır</item>
+        <item>Bitlis</item>
+        <item>Düzce</item>
+
+    </array>
+</resources>
